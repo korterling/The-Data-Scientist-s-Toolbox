@@ -1,2 +1,16 @@
 命令
 pwd：当前所在的工作目录的路径
+clear：清除当前命令行界面中的所有命令
+ls：列出当前目录中包含的文件和文件夹
+ls -a：显示隐藏文件夹
+ls -al：展示文件夹的一些详细信息
+cd+路径：change directory切换个目录
+cd：不加任何参数值，转到主目录
+cd..：移动到上一级目录中
+mkdir:创建目录 (make directory)
+touch test_file:创建一个名为test_file的文件
+cp:复制 (copy)
+cp test_file documents:复制test_file到documents文件夹
+rm test_file：删除文件
+mv new_file ocuments：移动test_file到documents文件夹
+date命令和echo命令分别用来查看日期和输出特定的内容 
